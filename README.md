@@ -1,6 +1,6 @@
 # Medical-Cost-EDA-and-Prediction
 
-- About this porject : Guided Project
+- About this project : Personal Project
 - Tools : Python (Kaggle Notebook : https://www.kaggle.com/code/maryamaddin/medical-cost-eda-and-prediction)
 
 About Dataset
