@@ -1,6 +1,7 @@
 # Medical-Cost-EDA-and-Prediction
-The analysis was done on Kaggle Notebook.
-Refer here: https://www.kaggle.com/code/maryamaddin/medical-cost-eda-and-prediction
+
+- About this porject : Guided Project
+- Tools : Python (Kaggle Notebook : https://www.kaggle.com/code/maryamaddin/medical-cost-eda-and-prediction)
 
 About Dataset
 - This dataset provides medical cost information for individuals based on various personal attributes. The aim of this notebook is to perform an exploratory data analysis (EDA) and understand the factors that influence medical charges.
